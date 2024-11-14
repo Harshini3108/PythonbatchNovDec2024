@@ -79,7 +79,9 @@ To create new branch
         PEP 8 Guidelines
         Shebang line
         Indentaion issue and Best practices
+        Script mode vs Interactive mode
         Built-in functions
-        Comment Operator
-        Keywords and Identifiers
-        Line continuation and statement separator operators
+        Print function
+        Jupyter Notebook usage
+        Ascii and Unicode characters
+        
