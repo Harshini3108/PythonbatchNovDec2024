@@ -73,3 +73,13 @@ To create new branch
     01. Introduction
         Importance of Python
         Two versions of Python (2.x & 3.x)
+
+[class 02]
+
+        PEP 8 Guidelines
+        Shebang line
+        Indentaion issue and Best practices
+        Built-in functions
+        Comment Operator
+        Keywords and Identifiers
+        Line continuation and statement separator operators
