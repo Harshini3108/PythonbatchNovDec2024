@@ -38,7 +38,7 @@ To Push the changes (after commit the changes will be visible after push request
         class01-->main
         ex: git push origin class01
 
-###Daily
+### Daily
 
 To check the branch is clean
 
@@ -55,3 +55,21 @@ To get the latest changes
 To create new branch
 
     git checkout -b <BranchName>
+
+## Course Completed
+
+[class 00]
+
+    00. Dev Setup
+        Installing IDE/Editor
+        Github access, creating project
+
+[class 01]
+
+        git Commands
+        markdown syntax
+        daily activity and usage
+
+    01. Introduction
+        Importance of Python
+        Two versions of Python (2.x & 3.x)
