@@ -1,0 +1,23 @@
+Reserved Keywords (35 in python 3.x)
+False      await      else       import     pass
+None       break      except     in         raise
+True       class      finally    is         return
+and        continue   for        lambda     try
+as         def        from       nonlocal   while
+assert     del        global     not        with
+async      elif       if         or         yield
+
+Reserved Keywords (Python 2.x)
+and       del       from      not       while    
+as        elif      global    or        with     
+assert    else      if        pass      yield    
+break     except    import    print              
+class     exec      in        raise              
+continue   finally   is        return             
+def       for       lambda    try 
+
+
+
+Variable
+    Keywords: Variables defined by the language
+    Identifiers: Variables defined by user
