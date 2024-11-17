@@ -84,4 +84,17 @@ To create new branch
         Print function
         Jupyter Notebook usage
         Ascii and Unicode characters
+
+[class 03]
+
+        Comment Operator
+        Keywords and Identifiers
+        Line continuation and statement separator operators
+
+    02. Basics
+        Arithmetic operations
+            +, -, / , //, %, *
+            divmod() function
+            compound operations
+            
         
